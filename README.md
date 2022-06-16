@@ -1,4 +1,4 @@
-# Automated birthday email
+# Automated birthday email notification
 
 
 ## Description
