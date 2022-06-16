@@ -9,15 +9,15 @@ This program uses Python's pandas library to access a .csv file in order to chec
 ## Getting Started
 
 1. Clone the repository by entering the following command in your IDE terminal:
-	git clone https://github.com/andreibarstan/automatic_birthday_wisher.git
+	*git clone https://github.com/andreibarstan/automatic_birthday_wisher.git
 
 2. Install "pandas" library:
-	pip3 install pandas --user 
+	*pip3 install pandas --user 
 
 3. Open main.py file and populate "my_email" and "password" variables. 
 
 3. Run the program:
-	python main.py
+	*python main.py
 
 
 ## Acknowledgments
